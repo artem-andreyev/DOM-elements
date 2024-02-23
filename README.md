@@ -1,1 +1,1 @@
-Training with DOM elements
+Project for training DOM elements
